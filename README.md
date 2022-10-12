@@ -1,16 +1,14 @@
-# expense_tracker
+# Expense Tracker Flutter App
 
-A new Flutter project.
+# Details:
+A new Flutter project which helps users for tracking their expenses during the month, which uses Google Sheets & Cloud consol as their Backend to store the data of all the expenditures.
 
-## Getting Started
+# Features:
+A Neumorphic flutter card designs, with An Animated Spiral Loader.
+Shows Total Balance, Incomes and Expenses with green and red updown indicators.
+List View of all the expenditures with their title and Incomed/Expensed money
+An add button for the New Transanctions, where you can add your recent Incomes/Expenses with the coloured Toggle, red for expenses and green for income.
+Tried to use CRUD operations Creat & Read implimented, soon Update and  Delete options will be in action.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
