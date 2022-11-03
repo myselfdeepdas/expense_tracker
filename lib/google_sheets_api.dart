@@ -12,7 +12,7 @@ class GoogleSheetsApi {
   }
   ''';
   // set up & connect to the spreadsheet
-  static final _spreadsheetId = '1bkCwtydKOq8JoCVrZ0BuHhwRkkg5JVSpn296H1gjcNk';
+  static final _spreadsheetId = 'Id here';
   static final _gsheets = GSheets(_credentials);
   static Worksheet? _worksheet;
 
