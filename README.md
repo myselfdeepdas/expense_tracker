@@ -2,7 +2,7 @@
 
 <h3><i>
 A Flutter App which helps users to track their expenses during the month, 
-Which uses Google Sheets & Cloud consol as their Backend to store the data of all the expenditures.</i></h3>
+Which uses Google Sheets & Cloud console as their Backend to store the data of all the expenditures.</i></h3>
 
 Features of this App are: ⏬
 
